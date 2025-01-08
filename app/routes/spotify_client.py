@@ -1,4 +1,4 @@
-import requs
+import requests
 import os
 
 class SpotifyClient:
